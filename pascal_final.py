@@ -1,8 +1,8 @@
 row_1 = [1]
-print row_1
+print (row_1)
 row_2 = [1, 1]
 previous_row = row_2
-print previous_row
+print (previous_row)
 
 row_number = 1
 while row_number < 10:
